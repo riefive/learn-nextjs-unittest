@@ -1,6 +1,6 @@
 {
-  "files.associations": {
-    "plyconfig.json": "jsonc"
-  },
-  "css.lint.unknownAtRules": "ignore"
+    "files.associations": {
+        "plyconfig.json": "jsonc"
+    },
+    "css.lint.unknownAtRules": "ignore"
 }

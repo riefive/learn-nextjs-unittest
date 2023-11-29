@@ -18,10 +18,10 @@
 
 🚀 Follow Me:
 
-- [Twitter](https://twitter.com/yesdavidgray)
-- [LinkedIn](https://www.linkedin.com/in/davidagray/)
-- [Blog](https://yesdavidgray.com)
-- [Reddit](https://www.reddit.com/user/DaveOnEleven)
+-   [Twitter](https://twitter.com/yesdavidgray)
+-   [LinkedIn](https://www.linkedin.com/in/davidagray/)
+-   [Blog](https://yesdavidgray.com)
+-   [Reddit](https://www.reddit.com/user/DaveOnEleven)
 
 ---
 
@@ -31,18 +31,18 @@
 
 ### 📚 References
 
-- 🔗 [Next.js Official Site](https://nextjs.org/)
-- 🔗 [TypeScript Official Site](https://www.typescriptlang.org/)
-- 🔗 [Jest Official Site](https://jestjs.io/)
-- 🔗 [React Testing Library Official Site](https://testing-library.com/docs/react-testing-library/intro)
+-   🔗 [Next.js Official Site](https://nextjs.org/)
+-   🔗 [TypeScript Official Site](https://www.typescriptlang.org/)
+-   🔗 [Jest Official Site](https://jestjs.io/)
+-   🔗 [React Testing Library Official Site](https://testing-library.com/docs/react-testing-library/intro)
 
 ---
 
 ### ⚙ Free Web Dev Tools
 
-- 🔗 [Google Chrome Web Browser](https://google.com/chrome/)
-- 🔗 [Visual Studio Code (aka VS Code)](https://code.visualstudio.com/)
-- 🔗 [ES7 React Snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+-   🔗 [Google Chrome Web Browser](https://google.com/chrome/)
+-   🔗 [Visual Studio Code (aka VS Code)](https://code.visualstudio.com/)
+-   🔗 [ES7 React Snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 
 ---
 
