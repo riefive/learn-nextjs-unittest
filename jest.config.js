@@ -9,8 +9,12 @@ const createJestConfig = nextJest({
 /** @type {import('jest').Config} */
 const config = {
     // Add more setup options before each test is run
-    setupFilesAfterEnv: ['<rootDir>/jest.setup.js'],
+    setupFilesAfterEnv: [
+        '<rootDir>/jest.setup.js',
+        '<rootDir>/src/app/libs/prisma.singleton.ts',
+    ],
     testEnvironment: 'jest-environment-jsdom',
+    clearMocks: true,
     collectCoverage: true,
     coverageReporters: ['json', 'html'],
     preset: 'ts-jest',
