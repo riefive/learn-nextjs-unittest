@@ -1,6 +1,6 @@
 {
-  "name": "next-testing-intro",
-  "version": "0.1.0",
+  "name": "learn-nextjs-unittest",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -8,6 +8,7 @@
     "start": "next start",
     "lint": "next lint",
     "test": "jest",
+    "test:coverage": "jest --coverage",
     "test:watch": "jest --watchAll"
   },
   "dependencies": {
