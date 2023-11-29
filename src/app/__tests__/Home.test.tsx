@@ -1,30 +1,30 @@
-import { render, screen } from '@testing-library/react'
-import Home from '@/app/page'
+import { render, screen } from "@testing-library/react";
+import Home from "@/app/page";
 
-describe('Home', () => {
-    it('should have Docs text', () => {
-        render(<Home />) // ARRANGE 
+describe("Home", () => {
+  it("should have Docs text", () => {
+    render(<Home />); // ARRANGE
 
-        const myElem = screen.getByText('Docs') // ACT 
+    const myElem = screen.getByText("Docs"); // ACT
 
-        expect(myElem).toBeInTheDocument() // ASSERT
-    })
+    expect(myElem).toBeInTheDocument(); // ASSERT
+  });
 
-    it('should contain the text "information"', () => {
-        render(<Home />) // ARRANGE 
+  it('should contain the text "information"', () => {
+    render(<Home />); // ARRANGE
 
-        const myElem = screen.getByText(/information/i) // ACT 
+    const myElem = screen.getByText(/information/i); // ACT
 
-        expect(myElem).toBeInTheDocument() // ASSERT
-    })
+    expect(myElem).toBeInTheDocument(); // ASSERT
+  });
 
-    it('should have a heading', () => {
-        render(<Home />) // ARRANGE 
+  it("should have a heading", () => {
+    render(<Home />); // ARRANGE
 
-        const myElem = screen.getByRole('heading', {
-            name: 'Learn'
-        }) // ACT 
+    const myElem = screen.getByRole("heading", {
+      name: "Learn",
+    }); // ACT
 
-        expect(myElem).toBeInTheDocument() // ASSERT
-    })
-})
+    expect(myElem).toBeInTheDocument(); // ASSERT
+  });
+});

@@ -30,6 +30,7 @@
 📺 [YouTube Video](https://youtu.be/AS79oJ3Fcf0) for this repository.
 
 ### 📚 References
+
 - 🔗 [Next.js Official Site](https://nextjs.org/)
 - 🔗 [TypeScript Official Site](https://www.typescriptlang.org/)
 - 🔗 [Jest Official Site](https://jestjs.io/)
@@ -38,6 +39,7 @@
 ---
 
 ### ⚙ Free Web Dev Tools
+
 - 🔗 [Google Chrome Web Browser](https://google.com/chrome/)
 - 🔗 [Visual Studio Code (aka VS Code)](https://code.visualstudio.com/)
 - 🔗 [ES7 React Snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
